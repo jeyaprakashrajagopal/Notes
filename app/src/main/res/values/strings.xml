@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="add_note">Add notes</string>
+    <string name="notes_app">NotesApp-Test</string>
+    <string name="save_note">Save</string>
+    <string name="note_title">Title</string>
+    <string name="empty_notes">"Notes are empty!. "</string>
+    <string name="note_add_success">Note Added!</string>
+    <string name="note_remove_success">Note Removed!</string>
+</resources>
